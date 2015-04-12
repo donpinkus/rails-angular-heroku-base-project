@@ -3,7 +3,7 @@
 #### This is a Rails & AngularJS app that is ready to be deployed on Heroku. 
 You can immediately start using AngularJS and Rails, and deploy to Heroku without any configuration.
 
-You can see the deployed project here: [http://angular-rails-heroku-base-proj.herokuapp.com/].
+You can see the deployed project here: http://angular-rails-heroku-base-proj.herokuapp.com/.
 
 This is the most unopinionated and barebones base project for Rails & AngularJS I could make.
 
